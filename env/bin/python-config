@@ -1,4 +1,4 @@
-#!/Users/erdem/earthquake/env/bin/python
+#!/Users/erdem/earthquake-api/env/bin/python
 
 import sys
 import getopt

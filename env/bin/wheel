@@ -1,4 +1,5 @@
-#!/Users/erdem/earthquake/env/bin/python3.7
+#!/Users/erdem/earthquake-api/env/bin/python3.7
+
 # -*- coding: utf-8 -*-
 import re
 import sys
